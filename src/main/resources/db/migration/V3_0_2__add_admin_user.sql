@@ -1,0 +1,1 @@
+INSERT INTO users(email, username, password, role) VALUES ('admin@mgm-tp.com', 'Admin', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'ADMIN');

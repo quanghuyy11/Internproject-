@@ -1,0 +1,12 @@
+INSERT INTO users(email, username, password, role) VALUES ('Chau.Thi.Bang.Tran@mgm-tp.com', 'Chau Thi Bang Tran', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('Duy.Hoang.Le@mgm-tp.com', 'Duy Hoang Le', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('an.tri.nguyen@mgm-tp.com', 'An Tri Nguyễn', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('duy.anh.do@mgm-tp.com', 'Duy Anh Đỗ', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('hoa.the.phan@mgm-tp.com', 'Hòa Thế Phan', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('huy.van.quang.nguyen@mgm-tp.com', 'Huy Văn Quang Nguyễn', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('my.thi.thoai.vo@mgm-tp.com', 'Mỹ Thị Thoại Võ', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('ngoc.thi.kim.nguyen@mgm-tp.com', 'Ngọc Thị Kim Nguyễn', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('nhung.thi.hong.dang@mgm-tp.com', 'Nhung Thị Hồng Đặng', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('sang.van.do@mgm-tp.com', 'Sang Văn Đỗ', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('tuan.anh.duong@mgm-tp.com', 'Tuấn Anh Dương', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');
+INSERT INTO users(email, username, password, role) VALUES ('ninh.phu.duong@mgm-tp.com', 'Ninh Phú Dương', '$2a$10$aEVHvAty5NehRsWgNkvM4eEtDgArXKRGyLkIyif.nw7xncuzTSlTu', 'USER');

@@ -1,0 +1,1 @@
+ALTER TABLE events DROP CONSTRAINT IF EXISTS events_jotform_url_key;

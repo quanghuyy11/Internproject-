@@ -1,0 +1,11 @@
+-- CREATE TABLE REQUEST
+CREATE TABLE requests (
+    id SERIAL PRIMARY KEY,
+    status VARCHAR(20) CONSTRAINT valid_status CHECK(status IN('PENDING','ACCEPTED','DECLINED')) NOT NULL,
+    quantity INTEGER NOT NULL,
+    user_id VARCHAR(255) REFERENCES  users(email) NOT NULL,
+    prize_id INTEGER REFERENCES  prizes(id) NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    is_deleted BOOLEAN DEFAULT false
+)
